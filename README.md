@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Bachelor student in Cybersecurity &amp; Cloud Technologies (CSTC)</b><br/>
-  Higher School of Technology – Sidi Bennour (ESTSB), Morocco 🇲🇦
+  Higher School of Technology – Sidi Bennour (ESTSB), Morocco
 </p>
 
 ---
